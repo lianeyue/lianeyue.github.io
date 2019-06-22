@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liane Yue</title>
+    <link>https://lianeyue.github.io/</link>
+    <description>Recent content on Liane Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lianeyue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Screenwriting 101</title>
+      <link>https://lianeyue.github.io/posts/20190303-screenwriting-101/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190303-screenwriting-101/</guid>
+      <description>I took a film class called &amp;ldquo;Screenwriting 101&amp;rdquo; at Second City this spring. The instructor was brilliant. They were great at breaking down the elements of film/TV, explaining writing room dynamics, and advising us on the &amp;ldquo;behind the scenes&amp;rdquo; business skills needed to make it. But what I was most impressed with was their patience and ability to tailor their message to everyone in the room, which was a small and super diverse microcosm of Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Chinese New Year&#39;s Resolutions</title>
+      <link>https://lianeyue.github.io/posts/20190204-chinese-new-years-resolutions/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190204-chinese-new-years-resolutions/</guid>
+      <description>One of my calendar new year goals was to finally, finally build a personal website.
+If you&amp;rsquo;re reading this, I&amp;rsquo;m happy to report that it&amp;rsquo;s been checked off the list.
+So, then what? Well, seeing as I had made adequate progress towards my annual resolutions by mid-January, I immediately backslid and got caught up in the all-too-escapable wave of tedium that defines modern life. Long work weeks, bingeing a Netflix show I don&amp;rsquo;t even like, a brief but gripping Stardew Valley addiction&amp;hellip; but hey!</description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://lianeyue.github.io/theme-demo/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lianeyue.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/about/</guid>
+      <description>I believe in service leadership, in creating opportunities for myself and for others, and in embracing creative chances.
+Right now, I consult with Ernst &amp;amp; Young to drive technology transformation through IT strategy, architecture and infrastructure. Before that, I managed ERP and CRM deployments at GE Healthcare and Telamon. I&amp;rsquo;ve worked across the healthcare, automotive and utilities industries (to name a few) and developed skills in UI/UX, project management, and supply chain process improvement.</description>
+    </item>
+    
+    <item>
+      <title>Illustration</title>
+      <link>https://lianeyue.github.io/illustration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/illustration/</guid>
+      <description>Traditional and Fine Art. Clockwise from top left: (1) acrylic with paint markers, (2) colored and watercolor pencil, (3) Simon Birch study in oil, (4) suminagashi, and (5) oil pastels. I also work in watercolors, gouache, and orizomegami.
+
+
+Digital and Illustration. I like to sketch in pen/pencil and finish with Photoshop, Illustrator or Krita.
+For commissions or additional examples, feel free to shoot me an email.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lianeyue.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/projects/</guid>
+      <description>strtchmrks Magazine UI/UX, Graphic Design, Web Development
+Founded a multimedia creative collective publishing poetry, prose, and visuals.
+ Digital Grid Services UI/UX Design and Research
+Led client workshops to design and deliver dashboard interfaces for a cloud based analytics platform at a $7b company.
+ Portfolio Website Web Development
+Built with Hugo and Coder, hosted on GitHub.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

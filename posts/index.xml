@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Liane Yue</title>
+    <link>https://lianeyue.github.io/posts/</link>
+    <description>Recent content in Posts on Liane Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lianeyue.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Screenwriting 101</title>
+      <link>https://lianeyue.github.io/posts/20190303-screenwriting-101/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190303-screenwriting-101/</guid>
+      <description>I took a film class called &amp;ldquo;Screenwriting 101&amp;rdquo; at Second City this spring. The instructor was brilliant. They were great at breaking down the elements of film/TV, explaining writing room dynamics, and advising us on the &amp;ldquo;behind the scenes&amp;rdquo; business skills needed to make it. But what I was most impressed with was their patience and ability to tailor their message to everyone in the room, which was a small and super diverse microcosm of Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Chinese New Year&#39;s Resolutions</title>
+      <link>https://lianeyue.github.io/posts/20190204-chinese-new-years-resolutions/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190204-chinese-new-years-resolutions/</guid>
+      <description>One of my calendar new year goals was to finally, finally build a personal website.
+If you&amp;rsquo;re reading this, I&amp;rsquo;m happy to report that it&amp;rsquo;s been checked off the list.
+So, then what? Well, seeing as I had made adequate progress towards my annual resolutions by mid-January, I immediately backslid and got caught up in the all-too-escapable wave of tedium that defines modern life. Long work weeks, bingeing a Netflix show I don&amp;rsquo;t even like, a brief but gripping Stardew Valley addiction&amp;hellip; but hey!</description>
+    </item>
+    
+  </channel>
+</rss>
