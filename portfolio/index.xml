@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Liane Yue</title>
+    <link>https://lianeyue.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Liane Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lianeyue.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consulting Work</title>
+      <link>https://lianeyue.github.io/portfolio/engagements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/engagements/</guid>
+      <description>← Return
+As a technology transformation consultant, I have engaged across IT, Finance, and Supply Chain to drive effective design, execution and adoption of high visibility, high-impact technology enablement programs, including:
+ Full lifecycle IT sourcing and transformation Digital solutions and user experience Enterprise architecture assessment and roadmap RFP and vendor evaluation Infrastructure blueprints and cloud migration factories Program and project management  Industry Lines  Healthcare Technology Automotive Talent Utilities  Engagement Experience  Digital Solutions and User Experience – Led client workshops to design and deliver &amp;ldquo;smart&amp;rdquo; functionality and dashboard interfaces for a cloud based analytics platform at an $8bn power and utilities company.</description>
+    </item>
+    
+    <item>
+      <title>Digital Grid Services</title>
+      <link>https://lianeyue.github.io/portfolio/dgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/dgs/</guid>
+      <description>← Return
+ Digital Grid Services (DGS) is a data and analytics tool built to help a $7b company&amp;rsquo;s operations team and field technicians provide smarter, more reliable service to 3 million customers of electricity and natural gas.
+Summary The DGS initiative launched in parallel to an ongoing advanced metering infrastructure (AMI) deployment, which I also project managed. Because of my interest in digital innovation, I jumped at the opportunity to interview operations leads and senior directors, write requirements, and design the new solution from scratch.</description>
+    </item>
+    
+    <item>
+      <title>strtchmrks Magazine</title>
+      <link>https://lianeyue.github.io/portfolio/strtchmrks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/strtchmrks/</guid>
+      <description>← Return
+ strtchmrks (pronounced “stretch marks”) is a growing online community of women and non-binary folks that gathers together to find beauty in their scars and empower creative voices, even as our bodies grow and change. Monthly themes serve to encourage connection and inspire poetry, prose, and visuals for publication.
+PRELIMINARY WORDMARK SKETCHES
+ Summary To give direction to the project, I conducted user research, designed the brand and visuals, built and managed the website, and wrote the business plan and content strategy.</description>
+    </item>
+    
+  </channel>
+</rss>

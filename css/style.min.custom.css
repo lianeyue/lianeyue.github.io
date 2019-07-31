@@ -22,7 +22,7 @@ body{
     font-family:'space mono',monospace;
     font-size:1.6em;
     font-weight:400;
-    letter-spacing:.0625em;
+    /* letter-spacing:.0625em; */
     line-height:1.8em
 }
 @media only screen and (min-device-width:320px) and (max-device-width:480px){
@@ -560,18 +560,32 @@ a:hover:before,a:hover:after{
 }
 /*------------------------------END PORTFOLIO------------------------------*/
 
-/*------------------------------CASE STUDY------------------------------*/
-.casestudy img{
+/*------------------------------FULL IMG------------------------------*/
+.fullimg img{
     max-width:100%;
     margin-top:0px;
     margin-bottom:0px;
 }
     
-.casestudy .casestudy-caption{
+.fullimg .fullimg-caption{
     text-align: left;
     color:#323232;
-    font-size:1.4rem;
-    line-height:2rem
+    font-size:1.2rem;
+    line-height:1rem;
+}
+
+/*------------------------------END FULL IMG------------------------------*/
+
+/*------------------------------CASE STUDY------------------------------*/
+ 
+.casestudy .casestudy-story{
+    word-wrap: break-word;
+    width: 65%;
+    margin: 5rem auto 5rem auto;
+    /*color:#323232;
+    text-align: left;
+    font-size:1.8rem;
+    line-height:2em;*/
 }
 
 /*------------------------------END CASE STUDY------------------------------*/

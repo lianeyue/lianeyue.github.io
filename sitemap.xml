@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lianeyue.github.io/posts/20190730-felecite/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lianeyue.github.io/posts/20190718-chicago/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lianeyue.github.io/posts/20190303-screenwriting-101/</loc>
     <lastmod>2019-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -27,18 +37,31 @@
   </url>
   
   <url>
+    <loc>https://lianeyue.github.io/portfolio/engagements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lianeyue.github.io/portfolio/dgs/</loc>
+  </url>
+  
+  <url>
     <loc>https://lianeyue.github.io/illustration/</loc>
   </url>
   
   <url>
     <loc>https://lianeyue.github.io/</loc>
-    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lianeyue.github.io/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lianeyue.github.io/posts/</loc>
-    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,6 +72,10 @@
   <url>
     <loc>https://lianeyue.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lianeyue.github.io/portfolio/strtchmrks/</loc>
   </url>
   
 </urlset>

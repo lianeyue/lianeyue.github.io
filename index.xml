@@ -6,10 +6,30 @@
     <description>Recent content on Liane Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lianeyue.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Félécite</title>
+      <link>https://lianeyue.github.io/posts/20190730-felecite/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190730-felecite/</guid>
+      <description>This Friday, I&amp;rsquo;m taking Felecite to the DMV for the 3rd time and final time. God willing, she&amp;rsquo;ll pass her learner&amp;rsquo;s permit test and finally achieve one of her longstanding personal goals: to drive. Why the 3rd? Because the Illinois Secretary of State&amp;hellip; rather, the entire local government&amp;hellip; is a bureaucratic nightmare, and this girl also takes a million years to get ready. Why final? Because it&amp;rsquo;s my last day in Chicago, and the pesky but important last thing I need to do before I go.</description>
+    </item>
+    
+    <item>
+      <title>Chicago</title>
+      <link>https://lianeyue.github.io/posts/20190718-chicago/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/20190718-chicago/</guid>
+      <description>Hey.
+I&amp;rsquo;m moving at the end of the month. I&amp;rsquo;m finding a new home again.
+To everyone, myself included, this was entirely unexpected. Chicago&amp;rsquo;s not a cold city (metaphorically, not literally! duh!) but it has its distances, its special rhythms that keep you at a remove. Segregate neighborhoods, secret societies, half-years spent hidden away in parka coats and underground tunnels. After two years here, the ice was just starting to thaw, and I&amp;rsquo;ll miss it.</description>
+    </item>
     
     <item>
       <title>Screenwriting 101</title>
@@ -58,6 +78,28 @@ Right now, I consult with Ernst &amp;amp; Young to drive technology transformati
     </item>
     
     <item>
+      <title>Consulting Work</title>
+      <link>https://lianeyue.github.io/portfolio/engagements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/engagements/</guid>
+      <description>← Return
+As a technology transformation consultant, I have engaged across IT, Finance, and Supply Chain to drive effective design, execution and adoption of high visibility, high-impact technology enablement programs, including:
+ Full lifecycle IT sourcing and transformation Digital solutions and user experience Enterprise architecture assessment and roadmap RFP and vendor evaluation Infrastructure blueprints and cloud migration factories Program and project management  Industry Lines  Healthcare Technology Automotive Talent Utilities  Engagement Experience  Digital Solutions and User Experience – Led client workshops to design and deliver &amp;ldquo;smart&amp;rdquo; functionality and dashboard interfaces for a cloud based analytics platform at an $8bn power and utilities company.</description>
+    </item>
+    
+    <item>
+      <title>Digital Grid Services</title>
+      <link>https://lianeyue.github.io/portfolio/dgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/dgs/</guid>
+      <description>← Return
+ Digital Grid Services (DGS) is a data and analytics tool built to help a $7b company&amp;rsquo;s operations team and field technicians provide smarter, more reliable service to 3 million customers of electricity and natural gas.
+Summary The DGS initiative launched in parallel to an ongoing advanced metering infrastructure (AMI) deployment, which I also project managed. Because of my interest in digital innovation, I jumped at the opportunity to interview operations leads and senior directors, write requirements, and design the new solution from scratch.</description>
+    </item>
+    
+    <item>
       <title>Illustration</title>
       <link>https://lianeyue.github.io/illustration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,13 +118,25 @@ For commissions or additional examples, feel free to shoot me an email.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lianeyue.github.io/projects/</guid>
-      <description>strtchmrks Magazine UI/UX, Graphic Design, Web Development
+      <description>strtchmrks Magazine Graphic Design, UI/UX, Web Development
 Founded a multimedia creative collective publishing poetry, prose, and visuals.
  Digital Grid Services UI/UX Design and Research
 Led client workshops to design and deliver dashboard interfaces for a cloud based analytics platform at a $7b company.
  Portfolio Website Web Development
-Built with Hugo and Coder, hosted on GitHub.
- </description>
+Developed with Hugo and Coder, hosted on GitHub.
+ Consulting Work Business and Technology Experience</description>
+    </item>
+    
+    <item>
+      <title>strtchmrks Magazine</title>
+      <link>https://lianeyue.github.io/portfolio/strtchmrks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/portfolio/strtchmrks/</guid>
+      <description>← Return
+ strtchmrks (pronounced “stretch marks”) is a growing online community of women and non-binary folks that gathers together to find beauty in their scars and empower creative voices, even as our bodies grow and change. Monthly themes serve to encourage connection and inspire poetry, prose, and visuals for publication.
+PRELIMINARY WORDMARK SKETCHES
+ Summary To give direction to the project, I conducted user research, designed the brand and visuals, built and managed the website, and wrote the business plan and content strategy.</description>
     </item>
     
   </channel>
