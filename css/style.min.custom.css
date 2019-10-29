@@ -25,7 +25,7 @@ body{
     /* letter-spacing:.0625em; */
     line-height:1.8em
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     body{
         font-size:1.4em;
         line-height:1.6em
@@ -65,7 +65,7 @@ h1{
     font-size:3rem;
     line-height:4rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     h1{
         font-size:2.8rem;
         line-height:3rem
@@ -74,14 +74,14 @@ h1{
 h2{
     font-size:2.8rem;line-height:3rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     h2{font-size:2.4rem;line-height:2.4rem
     }
 }
 h3{
     font-size:2.4rem;line-height:2.4rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     h3{font-size:2rem;line-height:2rem
     }
 }
@@ -89,7 +89,7 @@ h4{
     font-size:2.2rem;
     line-height:2.2rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     h4{
         font-size:1.8rem;
         line-height:1.8rem
@@ -99,7 +99,7 @@ h5{
     font-size:2rem;
     line-height:2rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     h5{
         font-size:1.6rem;
         line-height:1.6rem
@@ -171,12 +171,13 @@ img{
     width:100%
 }
 .container{
-    max-width:120rem;
+    max-width:1150px;
     width:100%;
     margin:0 auto;
     padding-left:2rem;
     padding-right:2rem
 }
+
 /*------------------------------TRANSITION------------------------------*/
 /* https://christopheraue.net/design/fading-pages-on-load-and-unload */
 #fader {
@@ -232,7 +233,7 @@ img{
     line-height:6rem;
     letter-spacing:.1rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:768px){
+@media only screen and (min-width:320px) and (max-width:768px){
     .navigation a{
         font-size:1.6rem
     }
@@ -251,11 +252,11 @@ img{
     margin-left:1rem;
     margin-right:1rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:768px){
+@media only screen and (min-width:320px) and (max-width:768px){
     .navigation ul li{float:none !important
     }
 }
-@media only screen and (min-device-width:320px) and (max-device-width:768px){
+@media only screen and (min-width:320px) and (max-width:768px){
     .navigation ul{
         visibility:hidden;
         opacity:0;
@@ -283,7 +284,7 @@ img{
 .mobile-menu-lang-separator-centered{
     display:none
 }
-@media only screen and (min-device-width:320px) and (max-device-width:768px){
+@media only screen and (min-width:320px) and (max-width:768px){
     .btn-mobile{
         display:block;
         font-size:2rem;
@@ -330,7 +331,7 @@ img{
     font-size:1.8rem;
     color:#323232
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .content article header h2{
         font-size:1.6rem
     }
@@ -343,7 +344,7 @@ img{
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
 }
-@media only screen and (max-device-width:768px){
+@media only screen and (max-width:768px){
     .avatar img{
         width:20rem;
         height:20rem;
@@ -357,7 +358,7 @@ img{
 .list ul li{
     font-size:1.6rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .list ul li{
         font-size:1.4rem;
         margin:1.6rem 0 1.6rem 0
@@ -369,7 +370,7 @@ img{
     width:20rem;
     margin-right:3rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .list ul li span{
         display:block;
         text-align:left
@@ -419,14 +420,14 @@ img{
 }
 .centered .about{
     text-align:center;
-    max-width: 120rem
+    max-width: 1150px
 }
 .centered .about p{
     font-weight: none;
     margin-top:.5rem;
     margin-bottom:2.5rem;
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .about p{
         margin-top:2rem;
         margin-bottom:2rem
@@ -440,7 +441,7 @@ img{
     margin-top:2.5rem;
     margin-bottom:2.5rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .about h1{
         font-size: 3rem;
         margin-top:2rem;
@@ -454,7 +455,7 @@ img{
     font-size:2rem;
     letter-spacing:0em;    
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .about h2{
         font-size:1.7rem
     }
@@ -466,7 +467,7 @@ img{
     font-size:1.8rem;
     letter-spacing:0em;
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .about h3{
         font-size:1.5rem;
         margin-bottom:1rem
@@ -487,7 +488,7 @@ img{
     margin-right:1rem;
     font-size:1.6rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .about ul li a{
         font-size:1.4rem
     }
@@ -500,7 +501,7 @@ img{
     margin-bottom:.5rem;
     font-size:4.6rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .error h1{
         font-size:3.2rem
     }
@@ -508,7 +509,7 @@ img{
 .centered .error h2{
     margin-top:2rem;margin-bottom:3.2rem;font-size:3.2rem
 }
-@media only screen and (min-device-width:320px) and (max-device-width:480px){
+@media only screen and (min-width:320px) and (max-width:480px){
     .centered .error h2{
         font-size:2.8rem
     }
@@ -748,6 +749,768 @@ article .highlight pre {
 }
 }
 /*------------------------------END TWO COLUMNS------------------------------*/
+/* -----------------------------VENN DIAGRAM-------------------------------- */
+/* https://adrianroselli.com/2018/12/a-css-venn-diagram.html */
+:root {
+    --venn-width-mult: .85;
+  }
+  
+#venndiagram body {
+    font-size: calc(.55em + 1vw);
+    background-color: #fff;
+    margin: 0;
+    color: #333;
+  }
+  
+#venndiagram  main > * {
+    width: calc(100% * var(--venn-width-mult));
+    margin: 0 auto;
+  }
+  
+#venndiagram  main > div {
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: 1.5em auto;
+    padding: 1em 2em;
+    border-radius: 2em;
+  }
+  
+#venndiagram  h1,
+#venndiagram  h2,
+#venndiagram  h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.1;
+  }
+  
+#venndiagram  h1 {
+    clip-path: inset(100%);
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+#venndiagram  a,
+  a:link,
+  a:visited,
+  a:active {
+    color: rgb(5, 0, 61);
+  }
+  
+#venndiagram  a:hover,
+  a:focus {
+    color: rgba(5, 0, 61, 0.5);
+  }
+  
+  /* Start Venn */
+ 
+  /* Defaults for browsers that do not support shape-outside. */
+  @media (min-width: 800px) {
+      .venn::after {
+          content: "";
+          display: block;
+          width: 1px;
+          height: 1px;
+          clear: both;
+      }
+  
+      .circle,
+      .shape {
+          box-sizing: border-box;
+          border: 0.1em solid rgba(0, 0, 0, 0.5);
+          margin: 0 0.75%;
+          padding: 0 1.5em;
+          float: left;
+          width: 32%;
+      }
+  
+      .circle.one {
+          margin-left: 0;
+      }
+  
+      .circle.three {
+          margin-right: 0;
+      }
+  
+      .shape {
+          width: 30%;
+          margin: 1em 1%;
+      }
+  
+      .shape.onetwo {
+          margin-left: 2.5%;
+          clear: left;
+          border-top-right-radius: 1em;
+      }
+  
+      .shape.twothree {
+          margin-right: 2.5%;
+          border-top-left-radius: 1em;
+      }
+  
+      .shape.onethree {
+          margin-top: 3em;
+          border-top-right-radius: 1em;
+          border-top-left-radius: 1em;
+      }
+  
+      .shape.onetwothree {
+          clear: both;
+          width: 40%;
+          margin-left: 30%;
+          margin-right: 30%;
+          border-radius: 1.5em;
+      }
+  }
+  
+  @supports (shape-outside: polygon(0 0, 0 50%, 50% 50%)) {
+      .venn::after {
+          display: none;
+      }
+  
+      .venn > div {
+          box-sizing: border-box;
+          border: 0.1em solid rgba(0, 0, 0, 0.5);
+          font-size: calc(2.5vw * var(--venn-width-mult));
+          line-height: 1.3;
+          overflow: hidden;
+      }
+  
+      .venn > .shape {
+          font-size: calc(2.25vw * var(--venn-width-mult));
+          border: initial;
+          width: initial;
+          margin: initial;
+          padding: initial;
+      }
+  
+      .venn > .circle {
+          border-radius: 50%;
+          width: initial;
+          margin: initial;
+          padding: initial;
+      }
+  
+      /* Grid Layout  */
+      .venn {
+          display: grid;
+          grid-template-columns: repeat(5, 1fr);
+          grid-template-rows: repeat(3, calc(28.8vw * var(--venn-width-mult)));
+      }
+  
+      .venn > h2 {
+          grid-column-start: 1;
+          grid-column-end: 6;
+          grid-row-start: 0;
+          grid-row-end: 1;
+      }
+  
+      .venn > .circle.one {
+          /*   outline: .2em solid #f00; */
+          grid-column-start: 1;
+          grid-column-end: 4;
+          grid-row-start: 1;
+          grid-row-end: 3;
+      }
+  
+      .venn > .circle.two {
+          /*   outline: .2em solid #0f0; */
+          grid-column-start: 3;
+          grid-column-end: 6;
+          grid-row-start: 1;
+          grid-row-end: 3;
+      }
+  
+      .venn > .circle.three {
+          /*   outline: .2em solid #00f; */
+          grid-column-start: 2;
+          grid-column-end: 5;
+          grid-row-start: 2;
+          grid-row-end: 4;
+      }
+  
+      .venn > .shape.onetwo {
+          /*   outline: .2em solid #ff0; */
+          grid-column-start: 3;
+          grid-column-end: 4;
+          grid-row-start: 1;
+          grid-row-end: 2;
+      }
+  
+      .venn > .shape.onethree {
+          /*   outline: .2em solid #f0f; */
+          grid-column-start: 2;
+          grid-column-end: 4;
+          grid-row-start: 2;
+          grid-row-end: 2;
+      }
+  
+      .venn > .shape.twothree {
+          /*   outline: .2em solid #0ff; */
+          grid-column-start: 3;
+          grid-column-end: 5;
+          grid-row-start: 2;
+          grid-row-end: 2;
+      }
+  
+      .venn > .shape.onetwothree {
+          /*   outline: .2em solid #fff; */
+          grid-column-start: 3;
+          grid-column-end: 3;
+          grid-row-start: 2;
+          grid-row-end: 2;
+      }
+  
+      /* Text Wrap */
+      .venn .circle,
+      .venn .shape {
+          text-align: center;
+      }
+      .venn .circle span,
+      .venn .shape span {
+          box-sizing: border-box;
+          float: right;
+          /*     border: 1px dotted #00f;
+      background-color: rgba(0,0,0,.1); */
+      }
+      .venn .circle > span {
+          width: calc(58.5vw * var(--venn-width-mult));
+          height: calc(58.5vw * var(--venn-width-mult));
+      }
+
+      .venn .shape > span {
+          height: calc(29vw * var(--venn-width-mult));
+      }
+
+      .venn .one > span {
+          float: left;
+          width: 32%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              100% 0%,
+              0% 0%,
+              0% 100%,
+              100% 100%,
+              100% 92%,
+              76% 88%,
+              44% 80%,
+              20% 70%,
+              10% 60%,
+              5% 50%,
+              10% 40%,
+              20% 30%,
+              41% 20%,
+              70% 10%,
+              100% 5%
+          );
+      }
+      .venn .one > span + span {
+          float: right;
+          width: 66%;
+          shape-outside: polygon(
+              100% 0%,
+              40% 0%,
+              65% 15%,
+              53% 25%,
+              47% 35%,
+              44% 45%,
+              43% 50%,
+              31% 55%,
+              12% 65%,
+              5% 75%,
+              0% 85%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .two > span {
+          float: left;
+          width: 66%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              60% 0%,
+              35% 15%,
+              47% 25%,
+              53% 35%,
+              56% 45%,
+              57% 50%,
+              69% 55%,
+              88% 65%,
+              95% 75%,
+              100% 85%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .two > span + span {
+          float: right;
+          width: 32%;
+          shape-outside: polygon(
+              0% 0%,
+              100% 0%,
+              100% 100%,
+              0% 100%,
+              0% 92%,
+              24% 88%,
+              56% 80%,
+              80% 70%,
+              90% 60%,
+              95% 50%,
+              90% 40%,
+              80% 30%,
+              59% 20%,
+              30% 10%,
+              0% 5%
+          );
+      }
+      .venn .three > span {
+          float: left;
+          width: 49%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              100% 0%,
+              100% 40%,
+              75% 47%,
+              50% 50%,
+              2% 50%,
+              5% 60%,
+              13% 70%,
+              27% 80%,
+              52% 90%,
+              78% 95%,
+              100% 97%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .three > span + span {
+          float: right;
+          shape-outside: polygon(
+              100% 0%,
+              0% 0%,
+              0% 40%,
+              25% 47%,
+              50% 50%,
+              98% 50%,
+              95% 60%,
+              87% 70%,
+              73% 80%,
+              48% 90%,
+              22% 95%,
+              0% 97%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .onetwo > span {
+          float: left;
+          width: 49%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              100% 0%,
+              100% 30%,
+              72% 40%,
+              48% 50%,
+              20% 70%,
+              10% 85%,
+              0% 98%,
+              100% 98%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .onetwo > span + span {
+          float: right;
+          shape-outside: polygon(
+              100% 0%,
+              0% 0%,
+              0% 30%,
+              28% 40%,
+              52% 50%,
+              80% 70%,
+              90% 85%,
+              100% 98%,
+              0% 98%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .onethree > span {
+          float: left;
+          width: 48%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              100% 0%,
+              100% 5%,
+              70% 20%,
+              45% 35%,
+              26% 50%,
+              10% 75%,
+              5% 90%,
+              50% 98%,
+              100% 95%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .onethree > span + span {
+          float: right;
+          width: 51%;
+          shape-outside: polygon(
+              100% 0%,
+              0% 0%,
+              0% 25%,
+              9% 40%,
+              20% 55%,
+              40% 70%,
+              30% 80%,
+              0% 90%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .twothree > span {
+          float: left;
+          width: 51%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              100% 0%,
+              100% 25%,
+              91% 40%,
+              80% 55%,
+              60% 70%,
+              70% 80%,
+              100% 90%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .twothree > span + span {
+          float: right;
+          width: 48%;
+          shape-outside: polygon(
+              100% 0%,
+              0% 0%,
+              0% 5%,
+              30% 20%,
+              55% 35%,
+              74% 50%,
+              90% 75%,
+              95% 90%,
+              50% 98%,
+              0% 95%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .onetwothree > span {
+          float: left;
+          width: 49%;
+          shape-margin: 0;
+          shape-outside: polygon(
+              0% 0%,
+              10% 15%,
+              30% 35%,
+              50% 50%,
+              95% 70%,
+              100% 100%,
+              0% 100%
+          );
+      }
+      .venn .onetwothree > span + span {
+          float: right;
+          shape-outside: polygon(
+              100% 0%,
+              90% 15%,
+              70% 35%,
+              50% 50%,
+              5% 70%,
+              0% 100%,
+              100% 100%
+          );
+      }
+      .venn .circle h3 {
+          margin: 0.5em 0 0 0;
+          text-align: center;
+      }
+      .venn .circle h3 + * {
+          margin-top: 0.2em;
+      }
+      .venn .shape h3 {
+          clip-path: inset(100%);
+          clip: rect(1px, 1px, 1px, 1px);
+          height: 1px;
+          width: 1px;
+          overflow: hidden;
+          position: absolute;
+          white-space: nowrap;
+      }
+  }
+  
+  
+  /* End Venn */
+  
+  /* Custom Styles */
+  
+  /* .xmas {
+    --venn-width-mult: .90;
+  } */
+  
+  .xmas {
+    width: calc(100% * var(--venn-width-mult));
+    margin: 3.2rem auto;
+  }
+  
+  .xmas * {
+    transition: all .15s ease-in;
+  }
+  
+  .xmas h2 {
+    color: #000;
+    line-height: 1.1;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 2em;
+    text-align: center;
+    padding: 0.5em 1em;
+  }
+  
+  .xmas .onetwo {
+    background-color: rgba(255, 255, 230, 0.85);
+  }
+  
+  .xmas .twothree {
+    background-color: rgba(230, 255, 255, 0.85);
+  }
+  
+  .xmas .onethree {
+    background-color: rgba(255, 230, 255, 0.85);
+  }
+  
+  .xmas .onetwothree {
+    background-color: rgba(255, 255, 255, 0.85);
+  }
+  
+  @media screen and (max-width: 768px) {
+    .xmas .circle, .xmas .shape {
+      padding: 1em 2em;
+    }
+  }
+  
+  @supports (shape-outside: polygon(0 0, 0 50%, 50% 50%)) {
+    .xmas ul,
+    .xmas li {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: block;
+    }
+  
+    /*.xmas ul {
+      display: block;
+    }
+  
+    .xmas li:not(:last-child)::after {
+      content: ", ";
+    }
+  
+    .xmas li:last-child::after {
+      content: ". ";
+    } */
+  
+    .xmas > div {
+      font-size: calc(2.75vw * var(--venn-width-mult));
+    }
+  
+    .xmas > .shape {
+      font-size: calc(2.35vw * var(--venn-width-mult));
+      z-index: 1;
+    }
+    
+    .xmas .circle, .xmas .shape {
+      padding: initial;
+    }
+  
+    .xmas .onetwothree ul {
+      margin-top: 0.9em;
+    }
+  
+    .xmas .onethree,
+    .xmas .twothree {
+      font-size: calc(2.75vw * var(--venn-width-mult));
+    }
+    
+    .xmas .one > span {
+      shape-margin: .6em;
+    }
+    
+    .xmas .three > span {
+      shape-margin: 1.75em;
+    }
+  
+    .xmas .circle ul {
+      margin: 0.5em 0 0 0;
+    }
+    
+    .xmas .one h3 {
+      margin-top: 2.75em;
+    }
+    
+    .xmas .two h3 {
+      margin-top: 1.25em;
+    }
+  
+    .xmas .shape {
+      background-color: transparent
+    }
+  }
+  
+  .xmas .one {
+    background-color: rgba(255, 230, 230, 0.85);
+    border-color: rgba(255,255,255,1);
+  }
+  
+  .xmas .one:hover,
+  .xmas .one:focus {
+    background-color: rgb(226, 134, 134);
+    border-color: rgba(255,0,0,1);
+  }
+  
+  .xmas .two {
+    background-color: rgba(230, 255, 230, 0.85);
+    border-color: rgba(255,255,255,1);
+  }
+  
+  .xmas .two:hover,
+  .xmas .two:focus {
+    background-color: rgb(187, 235, 155);
+    border-color: rgb(119, 236, 119);
+  }
+  
+  .xmas .three {
+    background-color: rgba(230, 230, 255, 0.85);
+    border-color: rgba(255,255,255,1);
+  }
+  
+  .xmas .three:hover,
+  .xmas .three:focus {
+    background-color: rgb(111, 111, 209);
+    border-color: rgba(0,0,255,1);
+  }
+  
+  .xmas .circle:hover,
+  .xmas .circle:focus {
+    z-index: 2;
+/*     box-shadow: -1em 1em 1.5em rgba(0, 0, 0, 0.5),
+      inset 0 0 0.5em rgba(255, 255, 255, 1); */
+    color: #fff;
+    outline: none;
+    overflow: hidden;
+  }
+  
+  .xmas .circle {
+    position: relative;
+  }
+  
+  .xmas .circle:hover::before,
+  .xmas .circle:focus::before {
+    content: "";
+    position: absolute;
+    background: radial-gradient(
+      circle at 50% 120%,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0) 70%
+    );
+    border-radius: 50%;
+    bottom: 2.5%;
+    left: 5%;
+    opacity: 0.6;
+    height: 100%;
+    width: 90%;
+    filter: blur(0.7em);
+    /*   z-index: 2; */
+  }
+  .xmas .circle:hover::after,
+  .xmas .circle:focus::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle at 50% 50%,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.65) 14%,
+      rgba(255, 255, 255, 0) 24%
+    );
+    transform: translateX(10%) translateY(-35%) skewX(20deg);
+    filter: blur(1.5em);
+  }
+  
+  .xmas:hover > div, .xmas:focus-within > div {
+      overflow: visible;
+  }
+  
+  @media only screen and (min-width:1150px){
+    .venn {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(3, 200px);
+    }
+    #venndiagram body {
+        font-size: 1.6em;
+    }
+    .venn .circle > span {
+        height: 404px;
+    }
+    .venn .shape > span {
+        height: 200px;
+    }
+    .xmas {
+        width: 690px
+    }
+    .xmas > div {
+        font-size: 1.6rem;
+    }
+    .xmas > .shape {
+        font-size: 1.6rem;
+    }
+    .xmas .onethree,
+    .xmas .twothree {
+      font-size: 1.6rem;
+    }
+}
+
+  @media print {
+    :root {
+    --venn-width-mult: 1;
+    }
+    #venndiagram body {
+      background: none;
+      background-color: #fff;
+      color: #000;
+    }
+    .xmas .circle, .xmas .shape {
+      background-color: transparent;
+    }
+    #venndiagram main > div {
+      padding: 0;
+    }
+    .xmas .one, .xmas .two, .xmas .three {
+        border-color: rgba(0,0,0,1);
+    }
+  }
+/*------------------------------END VENN DIAGRAM---------------------------- */
+
 
 
 .navigation{
@@ -762,15 +1525,16 @@ article .highlight pre {
     height:65px;
     width:100%;
     border-top:1px solid rgba(0,0,0,0.05);
-    background-color:#fefefe
-
+    background-color:#fefefe;
+    z-index:100;
 }
 .fixed-bar .container{
     display:flex;
     justify-content:center;
     align-items:center;
     position:relative;
-    height:65px
+    height:65px;
+    z-index:100;
 }
 code{
     background:#364549 !important
